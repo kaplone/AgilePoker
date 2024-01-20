@@ -10,4 +10,5 @@ First try to build a client-server project with :
 - Front
   - open a new console
   - cd AgilePokerFrontEnd
+  - launch sbt
   - fastOptJS
